@@ -1,4 +1,4 @@
-![PiWeb splash](/docu-test/assets/splash.png)
+![PiWeb splash](/docu-test/assets/images/splash.png)
 
 # Please start here
 
