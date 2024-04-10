@@ -82,4 +82,4 @@ solid cube_corner
 endsolid
 ```
 
-Home: [quick start tutorial](./). 
+Home: [quick start tutorial](/). 
