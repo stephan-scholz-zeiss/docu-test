@@ -32,7 +32,7 @@ git commit
 ## Images
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
-## Tabeles
+## Tables
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
@@ -48,7 +48,7 @@ graph TD;
     C-->D;
 ```
 
-## fancy
+## Fancy stl
 ```stl
 solid cube_corner
   facet normal 0.0 -1.0 0.0
